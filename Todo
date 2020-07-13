@@ -1,0 +1,8 @@
+# Project Facebook
+---> 13.7.2020
+This is a facebook tools which will help user to scraper user(me/friends/public) data for Work.
+it can do
+* scrape user profile + data (image/link)
+* export liker + commenter profile
+* friend list 
+* search user text
